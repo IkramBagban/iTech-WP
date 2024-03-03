@@ -1,3 +1,8 @@
 node_modules
 .wwebjs_cache
 notes.js
+users.json
+session
+auth_info_baileys
+groupsDetail.json
+test
